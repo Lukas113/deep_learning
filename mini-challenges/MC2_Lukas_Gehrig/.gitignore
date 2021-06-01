@@ -27,8 +27,6 @@ get_stanford_models.sh
 license.txt
 README.md
 
-
-
 # ignore all images
 /images/train
 /images/train.zip
