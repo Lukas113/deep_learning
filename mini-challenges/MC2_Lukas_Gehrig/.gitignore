@@ -34,3 +34,6 @@ README.md
 /images/test.zip
 /images/val
 /images/val.zip
+
+# ignore models dir
+/models
