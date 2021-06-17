@@ -34,6 +34,9 @@ README.md
 /images/test.zip
 /images/val
 /images/val.zip
+/images_preproc/train
+/images_preproc/val
+/images_preproc/test
 
 # ignore models dir
 /models
